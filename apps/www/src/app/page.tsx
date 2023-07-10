@@ -9,9 +9,9 @@ export default function Home() {
         Create admin panels for <br /> your Appwrite projects faster!
       </h1>
       <p className="w-8/12 text-center text-gray-400 font-normal">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum eius
-        corrupti laboriosam nostrum ab perspiciatis eum enim deleniti error
-        commodi ipsa corporis alias natus atque accusantium,
+        Appwrite Manager is a headless CMS designed to create admin panels
+        quickly and efficiently, utilizing the power of Appwrite. It is
+        Customizable 🎨, Configurable 📐 & has Sleek Design🔥
       </p>
       <div className="flex mt-6 items-center gap-4">
         <CopyCommand />
