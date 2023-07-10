@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0c0c0c;
+  color: #ececece3;
+}
+
+.shape1 {
+  position: absolute;
+  width: 731.5px;
+  height: 401.5px;
+  left: 20%;
+  top: 2.5px;
+
+  background: linear-gradient(
+    100deg,
+    #b60055 10.98%,
+    rgba(110, 93, 248, 0) 100%
+  );
+  filter: blur(213.5px);
+}
